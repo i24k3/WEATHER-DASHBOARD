@@ -1,11 +1,11 @@
-#  Weather app 
-
-## COMPANY NAME : CODETECH IT SOLUTIONS
-## NAME : ARSALAN KHAN
-## INTERN ID : CT08IXO
-## DOMAIN NAME : REACT
-## BATCH DURATION : JANUARY 5th, 2025 to FEBRUARY 5th, 2025
-## MENTOR NAME : NEELA SANTHOSH
+---
+COMPANY NAME : CODETECH IT SOLUTIONS
+NAME : ARSALAN KHAN
+INTERN ID : CT08IXO
+DOMAIN NAME : REACT
+BATCH DURATION : JANUARY 5th, 2025 to FEBRUARY 5th, 2025
+MENTOR NAME : NEELA SANTHOSH
+---
 
 TASK DESCRIPTION : This task involved creating a weather application using React that fetches and displays weather data from an API based on user input. I used the OpenWeather API to get real-time weather information and displayed it in a user-friendly format on the frontend. To handle the API requests, I utilized React's `useEffect` and `useState` hooks, ensuring that the app responds to user input and updates the UI accordingly.
 
